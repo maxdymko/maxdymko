@@ -100,6 +100,12 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="https://nestjs.com/">
+        <img src="./img/nestjs.png" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>Nest.js
+    </td>
+    <td align="center" width="96">
       <a href="https://lerna.js.org/">
         <img src="./img/lerna.svg" width="48" height="48" alt="LernaJS" />
       </a>
@@ -134,27 +140,21 @@
         <img src="./img/rxjs.png" width="48" height="48" alt="RxJS" />
       </a>
       <br>RxJS
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://retejs.org/">
         <img src="./img/rete.svg" width="48" height="48" alt="ReteJS" />
       </a>
       <br>Rete.js
-    </td>    
-  </tr>
-  <tr>
+    </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/products/platform/atlas-vector-search">
         <img src="./img/vector-search.png" width="48" height="48" alt="Vector Search" />
       </a>
       <br>Semantic Search
-    </td>        
-    <td align="center" width="96">
-      <a href="https://github.com/axa-group/nlp.js">
-        <img src="./img/nlp.png" width="48" height="48" alt="NLP" />
-      </a>
-      <br>NLP
-    </td>
+    </td>    
     <td align="center" width="96">
       <a href="https://github.com/FredrikOseberg/react-chatbot-kit">
         <img src="./img/chatbot.png" width="48" height="48" alt="Chatbot" />
