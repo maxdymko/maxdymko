@@ -3,9 +3,9 @@
 - 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
-- 🌟 Skilled in leveraging OpenAI, Anthropic with Natural Language Processing (NLP) and Prompt Engineering for Chatbot, Search Assistant, Copilot.
+- 🌟 Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
 
-- 🚀 Currently I am focusing to integrating AI-driven features like Craftgen Workflow Design Tool in Open source.
+- 🚀 Currently I am focusing to design AI agent and emulate workflows by GUI.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
