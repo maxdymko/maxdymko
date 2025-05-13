@@ -7,6 +7,7 @@
 
 - 🚀 Currently I am focusing to design AI agent and emulate workflows by GUI.
 
+<!--
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
 <table align="center">
@@ -182,6 +183,7 @@
   </tr>
 </table>
 </div>
+-->
 
 <!--
 Here are some ideas to get you started:
