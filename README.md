@@ -5,7 +5,7 @@
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - 🌟 Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
 
-- 🚀 Now I am focusing to design AI agent and emulate workflows on the screen.
+- 🚀 I am now focusing to design AI agent and emulate workflows on the screen.
 
 <!--
 <h3 align="center">Favorite Tech</h3>
