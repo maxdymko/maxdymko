@@ -4,8 +4,9 @@
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - 🌟 Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
+- 🌟 Experienced in building booking, e-commerce platform like airbnb and vendure.
 
-- 🚀 Currently I am focusing to design AI agent and emulate workflows on the screen.
+- 🚀 Currently I am focusing to design AI agent and emulate workflows by GUI.
 
 <!--
 <h3 align="center">Favorite Tech</h3>
