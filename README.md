@@ -1,4 +1,4 @@
-### App Logic, Schema, State Machine, Architecture Design Specializing in AI Solutions 👋
+### Logic, Schema, State Machine, Architecture Design & AI Agent Integration 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
