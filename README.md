@@ -1,4 +1,4 @@
-### Logic, Schema, State Machine, Architecture Design & Workflow Automation and Visual Agent build with AI 👋
+### Schema, State Machine, Architecture Design & Workflow Automation, Visual Agent build with AI 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
