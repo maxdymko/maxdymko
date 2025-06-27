@@ -6,7 +6,7 @@
 - Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
 
-- 🚀 Now I am focusing to automate workflow, visual design AI agent and actively contributing to make production like [n8n](https://n8n.io/) and [FlowiseAI](https://flowiseai.com/)
+- 🚀 Now I am focusing to visual design of workflows and AI agents, and actively contributing to make productions like [n8n](https://n8n.io/) and [FlowiseAI](https://flowiseai.com/)
 
 <!--
 <h3 align="center">Favorite Tech</h3>
