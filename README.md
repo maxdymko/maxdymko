@@ -1,12 +1,12 @@
-### Logic, Schema, State Machine, Architecture Expert & Agent Designer 👋
+### Logic, Schema, State Machine, Architecture Design & Workflow Automation and Visual Agent build with AI 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
+- Experienced in building Rental application like Airbnb [resortifi](https://resortifi.com)
 - Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
-- Experienced in building booking, e-commerce platform like airbnb and vendure.
 
-- 🚀 Now I am focusing to design AI agent and emulate workflows by GUI craftgen.
+- 🚀 Now I am focusing to automate workflow, visual design AI agent and actively contributing to make production like [n8n](https://n8n.io/) and [FlowseAI](https://flowiseai.com/)
 
 <!--
 <h3 align="center">Favorite Tech</h3>
