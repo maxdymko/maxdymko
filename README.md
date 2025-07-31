@@ -1,8 +1,7 @@
 ### Schema, State Machine, Architecture, Visual Agent Design & Workflow Automation with AI 👋
 
-- 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
-- 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
-- Experienced in building Rental application like Airbnb [resortifi](https://resortifi.com)
+- 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo), Broader Opensource ecosystem with high-performance, scalable and modern architecture.
+- 📦 Experienced in building Rental application like Airbnb [resortifi](https://resortifi.com)
 - Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
 
