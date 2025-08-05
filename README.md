@@ -1,4 +1,4 @@
-### Schema-Driven Systems | State Machines | Modern Architecture | Visual Agent Design | AI-Powered Workflow Automation 👋
+### Schema-Driven Systems | State Machine | Modern Architecture | AI-Powered Workflow Automation 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
 - Experienced in building Rental application like Airbnb [resortifi](https://resortifi.com)
