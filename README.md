@@ -1,7 +1,7 @@
 ### Schema-Driven System | State Machine | Modern Architecture | AI-Powered Workflow Automation Expert 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
-- Experienced in building Rental application like Airbnb [resortifi](https://resortifi.com)
+- Experienced in building Airbnb-like Rental application.[resortifi](https://resortifi.com)
 - Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
 - 🚀 Now I am building an application for visual design of AI-based workflows by integrating frameworks like [n8n](https://n8n.io/)
