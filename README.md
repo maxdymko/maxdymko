@@ -1,7 +1,7 @@
 ### Schema-Driven System | XState | AI-Powered Workflow Automation 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
-- 🚀 Now I am building an application for visual design of AI-based workflows [craftgen-workflow](https://github.com/maxdymko/craftgen-workflow) by integrating frameworks like [n8n](https://n8n.io/)
+- 🚀 Now I am building an application for visual design of AI-based [craftgen-workflow](https://github.com/maxdymko/craftgen-workflow) by integrating frameworks like [n8n](https://n8n.io/)
 - Experienced in building Airbnb-like Rental application [resortifi](https://resortifi.com)
 - Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
