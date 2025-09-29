@@ -3,8 +3,8 @@
 - 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
 - 🚀 Now I am building an application for visual design of AI-based workflow automation tool like [n8n](https://n8n.io/)
 - Experienced in building Airbnb-like Rental application [resortifi](https://resortifi.com)
-- Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, Copilot and Agent development.
+- Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 
 <!--
 <h3 align="center">Favorite Tech</h3>
