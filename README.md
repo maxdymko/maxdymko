@@ -1,4 +1,4 @@
-### Schema-Driven | State Machine (XState) | Workflow Automation 👋
+### Schema-Driven | State Machine (XState) | Workflow Automation | AI Agent 👋
 
 - 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
 - 🚀 Now I am building an application for visual design of AI-based workflow automation tool like [n8n](https://n8n.io/)
