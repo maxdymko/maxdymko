@@ -2,7 +2,7 @@
 
 - 💖 Full-stack Engineer and Software Architect specializing in XState state management, schema design, and GraphQL-based architectures for high-performance, scalable systems.
 - 🚀 Currently building a visual, AI-powered workflow automation platform inspired by tools like [n8n](https://n8n.io/), focused on extensibility and developer-friendly orchestration.
-- Experienced in designing and developing Airbnb-style rental platforms, including Resortifi. [resortifi](https://resortifi.com)
+- Experienced in designing and developing Airbnb-style rental platforms, including [resortifi](https://resortifi.com)
 - Actively involved in open-source research, customization, and contributions aimed at improving developer tools, frameworks, and ecosystem productivity.
 - Skilled in leveraging OpenAI models, large language models (LLMs), and prompt engineering for building chatbots, search assistants, and AI agent systems.
 
