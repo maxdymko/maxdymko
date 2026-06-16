@@ -1,11 +1,11 @@
 ### AI Agent & Workflow Automation | Schema Driven | State Machine 👋
 
-- 💖 Full-stack Engineer specializing in the MERN stack with GraphQL for High-performance, Scalable and Modern Architecture.
-- 🚀 Now I am building an application for visual design of AI-powered workflow automation tools like [n8n](https://n8n.io/)
-- Experienced in building Airbnb-like Rental application [resortifi](https://resortifi.com)
-- Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
-- Skilled in leveraging OpenAI, LLM and Prompt Engineering for Chatbot, Search Assistant, AI Agent development.
-                 
+- 💖 Full-stack Engineer and Software Architect specializing in XState state management, schema design, and GraphQL-based architectures for high-performance, scalable systems.
+- 🚀 Currently building a visual, AI-powered workflow automation platform inspired by tools like [n8n](https://n8n.io/), focused on extensibility and developer-friendly orchestration.
+- Experienced in designing and developing Airbnb-style rental platforms, including Resortifi. [resortifi](https://resortifi.com)
+- Actively involved in open-source research, customization, and contributions aimed at improving developer tools, frameworks, and ecosystem productivity.
+- Skilled in leveraging OpenAI models, large language models (LLMs), and prompt engineering for building chatbots, search assistants, and AI agent systems.
+
 <!--
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
